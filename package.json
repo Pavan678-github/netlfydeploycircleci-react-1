@@ -31,11 +31,6 @@
     "build": "babel src -d lib",
     "test": "jest"
   }
-
-  "name": "my-project",
-  "jest": {
-    "verbose": true
-  }
 }
 
 
