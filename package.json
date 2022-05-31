@@ -32,11 +32,10 @@
     "test": "jest"
   }
 
-{
   "name": "my-project",
   "jest": {
     "verbose": true
   }
 }
-}
+
 
